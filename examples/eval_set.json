@@ -1,0 +1,32 @@
+[
+  {
+    "question": "How many vacation days do full-time employees get?",
+    "expected_source": "employee_handbook.md",
+    "expected_substring": "25 days"
+  },
+  {
+    "question": "What is the refund window?",
+    "expected_source": "product_faq.md",
+    "expected_substring": "30 days"
+  },
+  {
+    "question": "What does error XK-99 mean?",
+    "expected_source": "product_faq.md",
+    "expected_substring": "temperature sensor"
+  },
+  {
+    "question": "How long does standard shipping take?",
+    "expected_source": "product_faq.md",
+    "expected_substring": "5-7 business days"
+  },
+  {
+    "question": "Can I work from home?",
+    "expected_source": "employee_handbook.md",
+    "expected_substring": "three days per week"
+  },
+  {
+    "question": "How fast are expense reimbursements processed?",
+    "expected_source": "employee_handbook.md",
+    "expected_substring": "10 business days"
+  }
+]
