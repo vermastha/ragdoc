@@ -58,7 +58,7 @@ Every stage is behind an interface (`Embedder` is a `Protocol`; the answerer is 
 ## Quick start
 
 ```bash
-git clone https://github.com/<you>/ragdoc && cd ragdoc
+git clone https://github.com/vermastha/ragdoc && cd ragdoc
 pip install -e ".[all]"          # or just `pip install -e .` for the minimal offline core
 
 # 1. Index some documents
